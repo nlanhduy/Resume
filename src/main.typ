@@ -5,20 +5,20 @@
   contacts: (
     [#icon("../resources/mail.svg") #link("mailto:nladuy22@clc.fitus.edu.vn")],
     [#icon("../resources/phone.svg") #link("tel:+84935195412")[+84 935 195 412]],
-    [#icon("../resources/github.svg") #link("https://github.com/nlanhduy")[nlanhduy.github]],
+    [#icon("../resources/github.svg") #link("https://github.com/nlanhduy")[nlanhduy]],
     [#icon("../resources/linkedin.svg") #link("https://www.linkedin.com/in/duy-nguy%E1%BB%85n-l%C3%A2m-anh-300735362/")[LinkedIn]],
   )
 )
 
 = Brief
-I'm a third-year software engineering student passionate about building technology solutions that enhance daily life. I have hands-on experience in developing web, mobile, and AI applications, and I'm looking for an internship to contribute and grow professionally.
+I'm a third-year software engineering student passionate about building technology solutions that improve people's daily lives. I have hands-on experience in developing web, mobile, and AI applications, and I'm looking for an internship to contribute and grow professionally.
 
 = Education
 #info(
   "Ho Chi Minh City University of Science",
   "Bachelor in Software Engineering",
   "Viet Nam",
-  "08/2022 – 08/2026",
+  "08/2022 – Ongoing",
   [
     - *GPA*: 8.6/10
     - *Coursework*: Object Oriented Programming, DevOps Fundamental, Mobile Application Development, Introduction to Software Engineering, Software Design, Introduction to Database, Web Application Development.
@@ -31,8 +31,8 @@ I'm a third-year software engineering student passionate about building technolo
 - *Back-end*: Node.js, Express.js, NextAuth.js, JWT, Firebase.
 - *Mobile Development*: Java, Android Studio, Retrofit.
 - *Database*: PostgreSQL, Neon, MongoDB, Mongoose, MySQL.
-- *Tools*: Visual Studio Code, Jenkins, Postman, Docker, Typst.
-- *Soft Skills*: 
+- *Tools*: Visual Studio Code, Jenkins, Postman, Docker, Typst, GitHub
+- *Soft Skills*: Teamwork, leadership mindset, ability to read and understand technical documents in English.
 
 = Projects
 #project(
@@ -44,7 +44,7 @@ I'm a third-year software engineering student passionate about building technolo
   "3",
   [A real IoT-based system for monitoring and automating indoor plant care with real-time control via a responsive web dashboard.],
   [
-    - Developed a real-time dashboard andvisualized historical sensor data
+    - Developed a real-time dashboard and visualized historical sensor data
     - Connected ESP8266 to web client via MQTT (HiveMQ)
     - Automated lighting, irrigation, and fan control based on sensor data
   ],
@@ -68,9 +68,9 @@ I'm a third-year software engineering student passionate about building technolo
    - Developed search results page with advanced filtering and responsive navigation (header, sidebar)
   ],
   [
-    - Front-End: Next.js, Tailwind CSS, React Query \
+    - Front-End: Next.js, Tailwind CSS, React \
     - Back-End: Neon PostgreSQL, NextAuth.js
-  ]
+  ] 
 )
 
 #project(

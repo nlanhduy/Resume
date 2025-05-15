@@ -43,7 +43,7 @@
 
 #let project(title, role, url, repo_name, time, team, des, res, tech) = { 
   pad( 
-    bottom: 4%, 
+    bottom: 7%, 
     [ 
       #grid( 
         columns: (auto, 1fr), 
@@ -54,8 +54,7 @@
         ], 
         align(right)[ 
           #link(url)[#text(fill: blue)[#emph[#{repo_name}]]]\ 
-          #time \ 
-          #"Team Size: " #team
+          #time | Team Size: #team
         ] 
       ) 
       
