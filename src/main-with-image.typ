@@ -1,4 +1,4 @@
-#import "resume.typ": *
+#import "resume-with-image.typ": *
 
 #show: cv.with(
   author: "Nguyen Lam Anh Duy",
@@ -8,9 +8,11 @@
     [#icon("../resources/github.svg") #link("https://github.com/nlanhduy")[nlanhduy]],
     [#icon("../resources/linkedin.svg") #link("https://www.linkedin.com/in/duy-nguy%E1%BB%85n-l%C3%A2m-anh-300735362/")[LinkedIn]],
   ),
+  profile-image:"../resources/OIP.jpg"
 )
+
 = Brief
-I'm a third-year software engineering student passionate about creating technology that enhances daily life. With hands-on experience in web, mobile, and AI development, I'm seeking a *Full-Stack Web Developer* internship to apply my skills and grow professionally.
+I'm a third-year software engineering student passionate about building technology solutions that improve people's daily lives. I have hands-on experience in developing web, mobile, and AI applications. I'm currently seeking an internship position as a *Full-Stack Web Developer* to apply my skills and grow professionally in a real-world environment.
 
 = Education
 #info(
@@ -128,6 +130,7 @@ I'm a third-year software engineering student passionate about creating technolo
     - Back-End: Next.js
   ]
 )
+
 
 
 
