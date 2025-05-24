@@ -19,7 +19,7 @@ I'm a third-year software engineering student passionate about creating technolo
   "Viet Nam",
   "08/2022 – Ongoing",  
   [
-    - *GPA*: 8.6/10
+    - *GPA*: 3.7/4
     - *Coursework*: Object Oriented Programming, DevOps Fundamental, Mobile Application Development, Introduction to Software Engineering, Software Design, Introduction to Database, Web Application Development.
   ] 
 )
