@@ -12,7 +12,7 @@
 )
 
 = Brief
-I'm a third-year software engineering student passionate about building technology solutions that improve people's daily lives. I have hands-on experience in developing web, mobile, and AI applications. I'm currently seeking an internship position as a *Full-Stack Web Developer* to apply my skills and grow professionally in a real-world environment.
+I'm a third-year software engineering student passionate about creating technology that enhances daily life. With hands-on experience in web, mobile, and AI development, I'm seeking a *Full-stack Developer* to apply my skills and grow professionally.
 
 = Education
 #info(

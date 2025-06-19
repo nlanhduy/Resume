@@ -1,7 +1,8 @@
 #import "resume.typ": *
 
 #show: cv.with(
-  author: "Nguyen Lam Anh Duy",
+  author: "Nguyen Lam Anh Duy
+  Frontend Developer",
   contacts: (
     [#icon("../resources/mail.svg") #link("mailto:nladuy22@clc.fitus.edu.vn")],
     [#icon("../resources/phone.svg") #link("tel:+84935195412")[+84 935 195 412]],
@@ -10,7 +11,7 @@
   ),
 )
 = Brief
-I'm a third-year software engineering student passionate about creating technology that enhances daily life. With hands-on experience in web, mobile, and AI development, I'm seeking a *Full-Stack Web Developer* internship to apply my skills and grow professionally.
+I'm a third-year software engineering student passionate about creating technology that enhances daily life. With hands-on experience in web, mobile, and AI development, I'm seeking a *Frontend Developer* to apply my skills and grow professionally.
 
 = Education
 #info(
@@ -26,11 +27,11 @@ I'm a third-year software engineering student passionate about creating technolo
 
 
 = Skills
-- *Front-end*: Next.js, React.js, Vite, Tailwind CSS.
+- *Front-end*: React.js, JavaSript, TypeScript, Tailwind CSS.
 - *Back-end*: Node.js, Express.js, NextAuth.js, JWT.
-- *Database*: PostgreSQL, Neon, MongoDB, MySQL.
+- *Database*: PostgreSQL, MongoDB, MySQL. 
 - *Tools*: Jenkins, Postman, Docker, Typst, GitHub
-- *Soft Skills*: Teamwork, leadership mindset, ability to read and understand technical documents in English.
+- *Soft Skills*: Teamwork, fast learning, problem-solving, growth mindset, strong English reading, writing, and verbal communication skills, experience working in Agile environments.
 
 = Projects
 #project(
